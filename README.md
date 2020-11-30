@@ -10,6 +10,7 @@
 ****
 
 ## 使用说明
+wget -N --no-check-certificate raw.githubusercontent.com/XIU2/SHELL/master/unblock163.sh && chmod +x unblock163.sh && bash unblock163.sh
 
 > **如果当前位于 Github，请先访问：[https://shell.xiu2.xyz](https://shell.xiu2.xyz)**  
 
